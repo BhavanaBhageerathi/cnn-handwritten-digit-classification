@@ -1,0 +1,28 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+
+# Virtual environments
+
+venv/
+.venv/
+myvirtualenv/
+
+# Dataset
+
+data/
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
